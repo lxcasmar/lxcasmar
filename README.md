@@ -8,5 +8,6 @@ I'm a second-year Computer Science and Electrical Engineering student from Mexic
 - 💬 Talk to me about travel ✈️   music 🎸  and sports ⚽
 - 📫 How to reach me: ljcasmar0o0@gmail.com 
 - ⚡ Fun fact: #NoEraPenal 🇲🇽
+- !(./noerapenal.gif)
 
 
