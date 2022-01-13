@@ -9,4 +9,4 @@ I'm a second-year Computer Science and Electrical Engineering student from Mexic
 - 📫 How to reach me: ljcasmar0o0@gmail.com 
 - ⚡ Fun fact: #NoEraPenal 🇲🇽
 
-<div class="tenor-gif-embed" data-postid="4547821" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/vivamexico-noerapenal-copamundial-worldcup-holland-gif-4547821">No Era Penal GIF</a>from <a href="https://tenor.com/search/vivamexico-gifs">Vivamexico GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
