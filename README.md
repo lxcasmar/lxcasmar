@@ -1,7 +1,3 @@
-<style>
- 
-</style>
-
 ### Hi 👋  I'm Luis
 
 I'm a second-year Computer Science and Electrical Engineering student at the University of Pittsburgh.
