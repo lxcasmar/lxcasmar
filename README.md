@@ -1,16 +1,14 @@
-### Hi there 👋
+<style>
+ 
+</style>
 
-<!--
-**lxcasmar/lxcasmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋  I'm Luis
 
-Here are some ideas to get you started:
+I'm a second-year Computer Science and Electrical Engineering student at the University of Pittsburgh.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal website and an automatic stock-trading bot. 
+- 🌱 I’m currently learning HTML, CSS, JS, Python
+- 💬 Talk to me about travel, music (guitars), and sports (soccer)
+- 📫 How to reach me: ljcasmar0o0@gmail.com 
+- ⚡ Fun fact: #NoEraPenal
+
