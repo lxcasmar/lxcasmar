@@ -23,9 +23,23 @@ jobs:
         uses: actions/setup-python@v2
         with: 
           python-version: '3.x'
-      - name: execute py script
+      - name: update README.md
         run:  |
           python daysSinceCounter.py
+      
+      - name: Commit README.md
+        run: |
+          timestamp=$(date -u)
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Automated update: ${timestamp} ${GITHUB_SHA}" || echo "No changes to commit"
+          
+      - name: Push README.md
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref}}
       
       # Runs a single command using the runners shell
       - name: Run a one-line script
