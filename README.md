@@ -9,4 +9,4 @@ I'm a second-year Computer Science and Electrical Engineering student from Mexic
 - 📫 How to reach me: ljcasmar0o0@gmail.com 
 - ⚡ Fun fact: Days since #NoEraPenal 🇲🇽: 
   
-<br> ![](noerapenal.gif)
+2756<br> ![](noerapenal.gif)
