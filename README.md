@@ -7,5 +7,5 @@ I'm a second-year Computer Science and Electrical Engineering student from Mexic
 - 🌳 I usually speak: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ... and Spanish.
 - 💬 Talk to me about travel ✈️   music 🎸  and sports ⚽
 - 📫 How to reach me: [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljcasmar0o0@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-castellanos0o0) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/lxcasmar) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuisCas0o0)
-- ⚡ Fun fact: Days since #NoEraPenal 🇲🇽: 3806
+- ⚡ Fun fact: Days since #NoEraPenal 🇲🇽: 3807
 <br>![](noerapenal.gif) 
